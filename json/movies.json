@@ -1,0 +1,32 @@
+let movies = `
+  [ {
+        "movieName": "The Knight",
+        "image": "img/knights.jpeg",
+        "description": "A knight goes crazy",
+        "likes": 0
+    },{
+        "movieName": "Queen",
+        "image": "img/queen.jpeg",
+        "description": "A wonderful Queen escaped",
+        "likes": 0
+    },{
+        "movieName": "Lonely",
+        "image": "img/lonely.jpeg",
+        "description": "A lonely man dissapeares",
+        "likes": 0
+    },{
+        "movieName": "Rage",
+        "image": "img/rage.jpeg",
+        "description": "A planet got lost in a cruel war",
+        "likes": 0
+    },{
+        "movieName": "The Child",
+        "image": "img/the-child.jpeg",
+        "description": "A child got away with it.",
+        "likes": 0
+    },{
+        "movieName": "The Clown",
+        "image": "img/the-clown.jpeg",
+        "description": "A clown lost it and freaked out.",
+        "likes": 0
+    } ] `
