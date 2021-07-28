@@ -1,7 +1,7 @@
 # FE21-CR4-MarkusKamitz
 Fourth Code Review | 02.07.2021
 
-For this CodeReview, the following criteria were graded:
+**For this CodeReview, the following criteria were graded:**
 
 * Create a GitHub Repository named: FE21-CR4-YourName. Push the files into it and send the link through the learning management system (lms). Please add a collaborator! See an example of a GitHub link below: https://github.com/JohnDoe/repositoryname.git
 
@@ -18,6 +18,6 @@ For this CodeReview, the following criteria were graded:
 
 * Display movie’s “likes” property (number), that is also updated on the screen,after clicking on the button “Like”
 
-Bonus Points:
+**Bonus Points:**
 
 * Add a Sort button that will sort the resulting list of movies according to their current like property status (e.g. show on the top of the list the movie whose like property is currently the highest one).
